@@ -1,0 +1,9 @@
+.game__card--name{
+    text-align: center;
+    font-weight: 100;
+    font-size: 3rem;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}

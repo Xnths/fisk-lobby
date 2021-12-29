@@ -1,0 +1,12 @@
+.institutional__credits{
+    padding: 1rem 0;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.institutional__credits--link{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-decoration: underline;
+}

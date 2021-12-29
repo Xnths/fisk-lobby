@@ -1,0 +1,16 @@
+.game__card{
+    padding: 4rem 2rem;
+    display: block;
+    background-color: white;
+    border-bottom: 3px solid black;
+    color: black;
+}
+
+.game__card:hover{
+    background-color: var(--red-contrast);
+    border-bottom: 3px solid red;
+    color: white;
+    transition: background-color 500ms;
+    cursor: pointer;
+    transform: scale(1.008);
+}
